@@ -1,8 +1,7 @@
 {
-  "name": "LudensHub Application",
+  "name": "ludens-hub-application",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular",
-  "id": "b5a0e340"
+  "type": "angular"
 }
